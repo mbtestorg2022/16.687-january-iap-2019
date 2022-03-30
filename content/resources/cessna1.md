@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8d2be332-035a-18fd-c8c3-a274f8a7a4ff
 resourcetype: Image
 title: Cessna1.jpg
 uid: 28f08d9c-fa15-35c5-585c-492f8f462952
